@@ -1,0 +1,205 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 1",
+    "vocab": [
+        {
+            "kanji": null,
+            "kana": "わたし",
+            "en": "I"
+        },
+        {
+            "kanji": null,
+            "kana": "あなた",
+            "en": "you"
+        },
+        {
+            "kanji": null,
+            "kana": "あのひと",
+            "en": "that person, he, she"
+        },
+        {
+            "kanji": null,
+            "kana": "～さん",
+            "en": "Mr., Ms. (suffix added to name for expressing politeness)"
+        },
+        {
+            "kanji": null,
+            "kana": "～ちゃん",
+            "en": "suffix often added to a child's name instead of ～さん"
+        },
+        {
+            "kanji": null,
+            "kana": "～じん",
+            "en": "suffix meaning 'a national of'; e.g. アメリカじん, an American"
+        },
+        {
+            "kanji": "先生",
+            "kana": "せんせい",
+            "en": "teacher, instructor (not used when referring to one's own job)"
+        },
+        {
+            "kanji": "教師",
+            "kana": "きょうし",
+            "en": "teacher, instructor"
+        },
+        {
+            "kanji": "学生",
+            "kana": "がくせい",
+            "en": "student"
+        },
+        {
+            "kanji": "会社員",
+            "kana": "かいしゃいん",
+            "en": "company employee"
+        },
+        {
+            "kanji": "社員",
+            "kana": "しゃいん",
+            "en": "employee of ~ company"
+        },
+        {
+            "kanji": "銀行員",
+            "kana": "ぎんこういん",
+            "en": "bank employee"
+        },
+        {
+            "kanji": "医者",
+            "kana": "いしゃ",
+            "en": "medical doctor"
+        },
+        {
+            "kanji": "研究者",
+            "kana": "けんきゅうしゃ",
+            "en": "researcher, scholar"
+        },
+        {
+            "kanji": "大学",
+            "kana": "だいがく",
+            "en": "university"
+        },
+        {
+            "kanji": "病院",
+            "kana": "びょういん",
+            "en": "hospital"
+        },
+        {
+            "kanji": null,
+            "kana": "どなた",
+            "en": "who (polite equivalent of だれ)"
+        },
+        {
+            "kanji": null,
+            "kana": "～さい",
+            "en": "years old"
+        },
+        {
+            "kanji": null,
+            "kana": "なんさい",
+            "en": "how old"
+        },
+        {
+            "kanji": null,
+            "kana": "はい",
+            "en": "yes"
+        },
+        {
+            "kanji": null,
+            "kana": "いいえ",
+            "en": "no"
+        },
+        {
+            "kanji": null,
+            "kana": "はじめまして",
+            "en": "How do you do? (lit. I am meeting you for the first time. Usually used as the first phrase when introducing oneself.)"
+        },
+        {
+            "kanji": null,
+            "kana": "～からまいりました",
+            "en": "I'm from ~ (country)"
+        },
+        {
+            "kanji": null,
+            "kana": "どうぞよろしくおねがいします",
+            "en": "Pleased to meet you (lit. Please be nice to me. Usually used at the end of a self-introduction.)"
+        },
+        {
+            "kanji": null,
+            "kana": "すみません",
+            "en": "Excuse me, but (used when asking someone for personal information such as their name or address)"
+        },
+        {
+            "kanji": null,
+            "kana": "おなまえは？",
+            "en": "May I have your name?"
+        },
+        {
+            "kanji": null,
+            "kana": "アメリカ",
+            "en": "U.S.A."
+        },
+        {
+            "kanji": null,
+            "kana": "イギリス",
+            "en": "U.K."
+        },
+        {
+            "kanji": null,
+            "kana": "インド",
+            "en": "India"
+        },
+        {
+            "kanji": null,
+            "kana": "インドネシア",
+            "en": "Indonesia"
+        },
+        {
+            "kanji": null,
+            "kana": "かんこく",
+            "en": "South Korea"
+        },
+        {
+            "kanji": null,
+            "kana": "タイ",
+            "en": "Thailand"
+        },
+        {
+            "kanji": null,
+            "kana": "ちゅうごく",
+            "en": "China"
+        },
+        {
+            "kanji": null,
+            "kana": "ドイツ",
+            "en": "Germany"
+        },
+        {
+            "kanji": null,
+            "kana": "にほん",
+            "en": "Japan"
+        },
+        {
+            "kanji": null,
+            "kana": "ブラジル",
+            "en": "Brazil"
+        },
+        {
+            "kanji": null,
+            "kana": "IMCパワー電気・ブラジルエアー",
+            "en": "fictitious companies"
+        },
+        {
+            "kanji": null,
+            "kana": "ABC研究所",
+            "en": "a fictitious institute"
+        },
+        {
+            "kanji": null,
+            "kana": "さくら病院",
+            "en": "a fictitious hospital"
+        },
+        {
+            "kanji": null,
+            "kana": "みんな大学・富士大学",
+            "en": "fictitious universities"
+        }
+    ]
+}
