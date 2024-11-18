@@ -24,7 +24,7 @@ defineCustomComponent({
     name: 'page-prepare',
     html: '/scripts/pages/prepare.html',
     onRender: async (template) => {
-        const listResponse = await fetcher('/datasource/list.json')
+        const listResponse = await fetcher('./datasource/list.json')
         const list = await listResponse.json()
         const form = template.querySelector('form')
         form.addEventListener('submit', template.handleSubmit);

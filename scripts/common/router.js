@@ -14,7 +14,12 @@ export class Router {
 
     static getState() {
         const searchParams = new URLSearchParams(window.location.search);
-        return JSON.parse(atob(searchParams.get('state')))
+        try {
+            return JSON.parse(atob(searchParams.get('state')))
+        } catch(e) {
+            console.error(e)
+            return {}
+        }
     }
     static setState(state) {
         const base64State = window.btoa(JSON.stringify(state || Router.getState()))

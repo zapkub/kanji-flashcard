@@ -27,14 +27,14 @@ function shuffleArray(array, seed = Date.now()) {
 }
 
 const vocabResolver = async (lessonIdList = []) => {
-    const vocabListResponse = await Promise.all(lessonIdList.map(lessonId => fetcher(`/datasource/${lessonId}.json`)))
+    const vocabListResponse = await Promise.all(lessonIdList.map(lessonId => fetcher(`./datasource/${lessonId}.json`)))
     const vocabList = await Promise.all(vocabListResponse.map(response => response.json()))
     return vocabList
 }
 
 defineCustomComponent({
     name: 'page-session',
-    html: '/scripts/pages/session.html',
+    html: './scripts/pages/session.html',
     onRender: async (template) => {
 
         const endButton = template.querySelector('ui-button#end-button')
