@@ -1,9 +1,6 @@
-import { BaseHTMLElement } from "../common/base.js"
-class ControlBar extends BaseHTMLElement {
+import { defineCustomComponent } from "../common/base.js"
 
-    constructor() {
-        super('/scripts/components/control-bar.html')
-    }
-
-}
-customElements.define('control-bar', ControlBar)
+defineCustomComponent({
+    name: 'control-bar',
+    html: '/scripts/components/control-bar.html',
+})

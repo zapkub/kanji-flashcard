@@ -1,33 +1,89 @@
-window.templateCache = {}
-class BaseHTMLElement extends HTMLElement {
 
 
-   _html = null
+function createCustomWebComponent(templateContent, config) { 
+    const uiElementClass = class UIElement extends HTMLElement {
+        static formAssociated = config.formAssociated;
+        static get observedAttributes() {
+            return config.observedAttributes || []
+        }
+        constructor() {
+            super();
+            for(let k in config.extends) {
+                if (typeof this[k] === 'function') {
+                    this[k] = this[k].bind(this, this)
+                }
+            }
 
-    constructor(html) {
-        super()
-        this._html = html
-        this._templateKey = btoa(this._html).toLocaleLowerCase();
-    }
-
-    async connectedCallback() {
-        let text = window.templateCache[this._templateKey]
-        let dd = window.templateCache["l3njcmlwdhmvzwxlbwvudhmvynv0dg9ulmh0bww="]
-        console.log(dd)
-
-        if (!text) {
-            console.log('no cache')
-            const response = await fetch(this._html, {
-                redirect: 'follow',
-            })
-            text = await response.text()
-            window.templateCache[this._templateKey] = text
+            if (uiElementClass.formAssociated) {
+                this._internals = this.attachInternals()
+            }
         }
 
-        const shadow = this.attachShadow({ mode: 'open' })
-        shadow.innerHTML = text
+        /**
+         * 
+         * @param {string} id 
+         * @returns template from shadowroot query by id
+         */
+        getTemplate(id) {
+            return this.shadowRoot.querySelector(`template#${id}`)
+        }
 
+        getElement(id) {
+            return this.shadowRoot.querySelector(`#${id}`)
+        }
+
+        querySelector(query) {
+            return this.shadowRoot.querySelector(query)
+        }
+        attributeChangedCallback(name, oldValue, newValue) {
+            if (oldValue !== newValue) {
+                if(config.onAttributeChange) {
+                    config.onAttributeChange(name, oldValue, newValue)
+                }
+            }
+        }
+
+        async connectedCallback() {
+            this.attachShadow({ mode: 'open' })
+            this.shadowRoot.appendChild(templateContent.cloneNode(true))
+            if(config.onRender) {
+                config.onRender(this)
+            }
+            this.createNestedComponent()
+        }
+
+        createNestedComponent() {
+            config.components?.forEach(component => {
+                const nestedComponentTemplate = this.shadowRoot.querySelector(`template#${component.name}`)
+                const CustomUIElement = createCustomWebComponent(nestedComponentTemplate.content, component)
+                customElements.define(component.name, CustomUIElement,component.options)
+            })
+        }
     }
+    Object.assign(uiElementClass.prototype, config.extends)
+    return uiElementClass
 }
 
-export { BaseHTMLElement }
+async function defineCustomComponent(config) {
+
+    let componentTemplate = document.getElementById(config.name)
+    if (!componentTemplate) {
+        const response = await fetch(config.html, {
+            redirect: 'follow',
+        })
+        const text = await response.text()
+        componentTemplate = document.createElement('template')
+        componentTemplate.id = config.name
+        componentTemplate.innerHTML = text
+
+    }
+    let templateContent = componentTemplate.content
+    if (config.templateId) {
+        templateContent = componentTemplate.content.querySelector(`template#${config.templateId}`).content
+    }
+    const CustomUIElement = createCustomWebComponent(templateContent, config)
+
+    customElements.define(config.name, CustomUIElement, config.options)
+}
+
+export { defineCustomComponent }

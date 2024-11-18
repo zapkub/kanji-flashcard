@@ -108,31 +108,6 @@
         },
         {
             "kanji": null,
-            "kana": "はじめまして",
-            "en": "How do you do? (lit. I am meeting you for the first time. Usually used as the first phrase when introducing oneself.)"
-        },
-        {
-            "kanji": null,
-            "kana": "～からまいりました",
-            "en": "I'm from ~ (country)"
-        },
-        {
-            "kanji": null,
-            "kana": "どうぞよろしくおねがいします",
-            "en": "Pleased to meet you (lit. Please be nice to me. Usually used at the end of a self-introduction.)"
-        },
-        {
-            "kanji": null,
-            "kana": "すみません",
-            "en": "Excuse me, but (used when asking someone for personal information such as their name or address)"
-        },
-        {
-            "kanji": null,
-            "kana": "おなまえは？",
-            "en": "May I have your name?"
-        },
-        {
-            "kanji": null,
             "kana": "アメリカ",
             "en": "U.S.A."
         },
@@ -180,26 +155,6 @@
             "kanji": null,
             "kana": "ブラジル",
             "en": "Brazil"
-        },
-        {
-            "kanji": null,
-            "kana": "IMCパワー電気・ブラジルエアー",
-            "en": "fictitious companies"
-        },
-        {
-            "kanji": null,
-            "kana": "ABC研究所",
-            "en": "a fictitious institute"
-        },
-        {
-            "kanji": null,
-            "kana": "さくら病院",
-            "en": "a fictitious hospital"
-        },
-        {
-            "kanji": null,
-            "kana": "みんな大学・富士大学",
-            "en": "fictitious universities"
         }
     ]
 }

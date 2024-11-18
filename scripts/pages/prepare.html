@@ -1,3 +1,20 @@
+
 <h1>漢字 Flashcard!</h1>
 
-<control-bar></control-bar>
+<template id="lesson-item-input-checkbox">
+    <style>
+        .lesson-item {
+            display: flex;
+            align-items: center;
+            gap: 2px;
+        }
+    </style>
+    <input type="checkbox" name="$name" value="$value" /><label class="lesson-name-label">$value</label>
+</template>
+
+<form id="lessons-form">
+    <fieldset id="lesson-selectors">
+        <legend>Select leseson to include</legend>
+    </fieldset>
+     <button type="submit">submit</button>
+</form>
