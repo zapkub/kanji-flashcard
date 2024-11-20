@@ -1,11 +1,30 @@
 <style>
-    :host div#kanji-display {
-        font-size: xx-large
+    :host div.container {
+        display: flex;
+        width: 100vw;
+        height: 100vh;
+        max-height: 720px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 4px;
+    }
+    :host div.word-navigator {
+        display: flex;
+        gap: 4px;
     }
 </style>
-<div>
-    Start!
-    <div id="kanji-display"></div>
-    <ui-button id="next-button">Next</ui-button>
+
+<div class="container">
+    <div class="status">
+        <span>Word <slot name="word-count"></slot></span>
+    </div>
+    <div>
+        <ui-word></ui-word>
+    </div>
+    <div class="word-navigator">
+        <ui-button id="next-button">Next</ui-button>
+        <ui-button id="reveal-button">Reveal</ui-button>
+    </div>
     <ui-button id="end-button">End</ui-button>
 </div>

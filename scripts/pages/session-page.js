@@ -43,6 +43,10 @@ defineCustomComponent({
         const nextButton = template.querySelector('ui-button#next-button')
         nextButton.addClickHandler(template.onNext)
 
+        const revealButton = template.querySelector('ui-button#reveal-button')
+        revealButton.addClickHandler(template.onReveal)
+
+
         const state = Router.getState()
         const vocabLists = await vocabResolver(state.lessons)
         let vocabs = vocabLists.map(lesson => lesson.vocab).reduce((curr, next) => {
@@ -53,27 +57,40 @@ defineCustomComponent({
         template.vocabs = vocabs
         state.seed = seed
         Router.setState(state)
-
-        template.renderVocab()
-
+        template.render()
     },
     extends: {
 
-        renderVocab(template) {
-            const kanjiDisplay = template.querySelector('div#kanji-display')
-            const vocabs = template.vocabs
+        render(template) {
+            template.renderVocab()
             const state = Router.getState()
+            template.innerHTML = `
+                <span slot="word-count"> ${state.vocabIdx+1} / ${template.vocabs.length} </span>
+            `
+        },
+
+        renderVocab(template) {
+            const state = Router.getState()
+            const kanjiDisplay = template.querySelector('ui-word')
+            const vocabs = template.vocabs
             if (!state.vocabIdx) {
                 state.vocabIdx = 0
             }
-            kanjiDisplay.innerText = vocabs[state.vocabIdx].kanji || vocabs[state.vocabIdx].kana
+            kanjiDisplay.setValue(vocabs[state.vocabIdx]) 
+            kanjiDisplay.setReveal(false)
+            Router.setState(state)
+        },
+
+        onReveal(template) {
+            const kanjiDisplay = template.querySelector('ui-word')
+            kanjiDisplay.setReveal(true)
         },
 
         onNext(template) {
             const state = Router.getState()
-            state.vocabIdx = state.vocabIdx+1
+            state.vocabIdx++;
             Router.setState(state)
-            template.renderVocab();
+            template.render();
         },
         onEnd() {
             Router.goTo('prepare', {

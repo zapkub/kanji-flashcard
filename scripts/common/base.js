@@ -35,6 +35,11 @@ function createCustomWebComponent(templateContent, config) {
         querySelector(query) {
             return this.shadowRoot.querySelector(query)
         }
+
+        querySelectorAll(query) {
+            return this.shadowRoot.querySelectorAll(query)
+        }
+
         attributeChangedCallback(name, oldValue, newValue) {
             if (oldValue !== newValue) {
                 if(config.onAttributeChange) {

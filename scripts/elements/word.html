@@ -1,0 +1,32 @@
+<style>
+    :host {
+        font-family: "Klee One", cursive;
+        text-align: center;
+        gap: 8px;
+    }
+    .kanji {
+        font-size: 8rem;
+        font-weight: 600;
+        font-style: normal;
+    }
+    .en {
+        font-family: 'Roboto', sans-serif;
+    }
+    .kana, .en {
+        font-size: 2rem;
+        opacity: 0;
+    }
+    .reveal {
+        opacity: 1;
+    }
+</style>
+
+<div class="kana">
+    <slot name="kana"></slot>
+</div>
+<div class="kanji">
+    <slot name="kanji"></slot>
+</div>
+<div class="en">
+    <slot name="en"></slot>
+</div>

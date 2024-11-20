@@ -9,6 +9,7 @@ export default {
 
         await import('./components/control-bar.js')
         await import('./elements/button.js')
+        await import('./elements/word.js')
         await import('./pages/prepare.js')
         await import('./pages/session-page.js')
 
