@@ -58,6 +58,7 @@ function createCustomWebComponent(templateContent, config) {
         }
 
         async disconnectedCallback() {
+            console.log(this)
             config.onUnmount?.(this)
         }
 

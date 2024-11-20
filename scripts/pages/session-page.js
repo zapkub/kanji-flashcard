@@ -68,7 +68,7 @@ defineCustomComponent({
         addListener(template) {
             window.addEventListener('keypress', template.onKeypress) 
         },
-        removeListener() {
+        removeListener(template) {
             window.removeEventListener('keypress', template.onKeypress)
         },
 
