@@ -43,7 +43,7 @@ function createCustomWebComponent(templateContent, config) {
         attributeChangedCallback(name, oldValue, newValue) {
             if (oldValue !== newValue) {
                 if(config.onAttributeChange) {
-                    config.onAttributeChange(name, oldValue, newValue)
+                    config.onAttributeChange.bind(name, oldValue, newValue)
                 }
             }
         }
@@ -51,10 +51,14 @@ function createCustomWebComponent(templateContent, config) {
         async connectedCallback() {
             this.attachShadow({ mode: 'open' })
             this.shadowRoot.appendChild(templateContent.cloneNode(true))
-            if(config.onRender) {
-                config.onRender(this)
+            if(config.onMount) {
+                config.onMount(this)
             }
             this.createNestedComponent()
+        }
+
+        async disconnectedCallback() {
+            config.onUnmount?.(this)
         }
 
         createNestedComponent() {

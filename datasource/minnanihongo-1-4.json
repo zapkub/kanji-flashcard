@@ -1,0 +1,265 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 4",
+    "vocab": [
+        {
+            "kanji": "起きます",
+            "kana": "おきます",
+            "en": "get up, wake up"
+        },
+        {
+            "kanji": "寝ます",
+            "kana": "ねます",
+            "en": "sleep, go to bed"
+        },
+        {
+            "kanji": "働きます",
+            "kana": "はたらきます",
+            "en": "work"
+        },
+        {
+            "kanji": "休みます",
+            "kana": "やすみます",
+            "en": "take a rest, take a holiday"
+        },
+        {
+            "kanji": "勉強します",
+            "kana": "べんきょうします",
+            "en": "study"
+        },
+        {
+            "kanji": "終わります",
+            "kana": "おわります",
+            "en": "finish"
+        },
+        {
+            "kanji": "部門",
+            "kana": "ぶもん",
+            "en": "department store"
+        },
+        {
+            "kanji": "銀行",
+            "kana": "ぎんこう",
+            "en": "bank"
+        },
+        {
+            "kanji": "郵便局",
+            "kana": "ゆうびんきょく",
+            "en": "post office"
+        },
+        {
+            "kanji": "図書館",
+            "kana": "としょかん",
+            "en": "library"
+        },
+        {
+            "kanji": "美術館",
+            "kana": "びじゅつかん",
+            "en": "art museum, art gallery"
+        },
+        {
+            "kanji": "今",
+            "kana": "いま",
+            "en": "now"
+        },
+        {
+            "kanji": "時",
+            "kana": "じ",
+            "en": "o'clock"
+        },
+        {
+            "kanji": "分",
+            "kana": "ふん",
+            "en": "minute"
+        },
+        {
+            "kanji": "半",
+            "kana": "はん",
+            "en": "half"
+        },
+        {
+            "kanji": "何時",
+            "kana": "なんじ",
+            "en": "what time"
+        },
+        {
+            "kanji": "何分",
+            "kana": "なんぷん",
+            "en": "what minute"
+        },
+        {
+            "kanji": "午前",
+            "kana": "ごぜん",
+            "en": "a.m., morning"
+        },
+        {
+            "kanji": "午後",
+            "kana": "ごご",
+            "en": "p.m., afternoon"
+        },
+        {
+            "kanji": "朝",
+            "kana": "あさ",
+            "en": "morning"
+        },
+        {
+            "kanji": "昼",
+            "kana": "ひる",
+            "en": "daytime, noon"
+        },
+        {
+            "kanji": "晩",
+            "kana": "ばん",
+            "en": "evening"
+        },
+        {
+            "kanji": "夜",
+            "kana": "よる",
+            "en": "night"
+        },
+        {
+            "kanji": "毎朝",
+            "kana": "まいあさ",
+            "en": "every morning"
+        },
+        {
+            "kanji": "毎晩",
+            "kana": "まいばん",
+            "en": "every night"
+        },
+        {
+            "kanji": "毎日",
+            "kana": "まいにち",
+            "en": "every day"
+        },
+        {
+            "kanji": "月曜日",
+            "kana": "げつようび",
+            "en": "Monday"
+        },
+        {
+            "kanji": "火曜日",
+            "kana": "かようび",
+            "en": "Tuesday"
+        },
+        {
+            "kanji": "水曜日",
+            "kana": "すいようび",
+            "en": "Wednesday"
+        },
+        {
+            "kanji": "木曜日",
+            "kana": "もくようび",
+            "en": "Thursday"
+        },
+        {
+            "kanji": "金曜日",
+            "kana": "きんようび",
+            "en": "Friday"
+        },
+        {
+            "kanji": "土曜日",
+            "kana": "どようび",
+            "en": "Saturday"
+        },
+        {
+            "kanji": "日曜日",
+            "kana": "にちようび",
+            "en": "Sunday"
+        },
+        {
+            "kanji": "何曜日",
+            "kana": "なんようび",
+            "en": "what day of the week"
+        },
+        {
+            "kanji": null,
+            "kana": "～から",
+            "en": "from ~"
+        },
+        {
+            "kanji": null,
+            "kana": "～まで",
+            "en": "up to ~, until ~"
+        },
+        {
+            "kanji": null,
+            "kana": "～と～",
+            "en": "and (used to connect nouns)"
+        },
+        {
+            "kanji": "試験",
+            "kana": "しけん",
+            "en": "examination, test"
+        },
+        {
+            "kanji": "会議",
+            "kana": "かいぎ",
+            "en": "meeting, conference"
+        },
+        {
+            "kanji": "映画",
+            "kana": "えいが",
+            "en": "film, movie"
+        },
+        {
+            "kanji": "大変ですね",
+            "kana": "たいへんですね",
+            "en": "That's tough, isn't it? (used when expressing sympathy)"
+        },
+        {
+            "kanji": "番号",
+            "kana": "ばんごう",
+            "en": "number"
+        },
+        {
+            "kanji": "何番",
+            "kana": "なんばん",
+            "en": "what number"
+        },
+        {
+            "kanji": null,
+            "kana": "そちら",
+            "en": "your place"
+        },
+        {
+            "kanji": null,
+            "kana": "ニューヨーク",
+            "en": "New York"
+        },
+        {
+            "kanji": null,
+            "kana": "ベキン",
+            "en": "Beijing (北京)"
+        },
+        {
+            "kanji": null,
+            "kana": "ロサンゼルス",
+            "en": "Los Angeles"
+        },
+        {
+            "kanji": null,
+            "kana": "ロンドン",
+            "en": "London"
+        },
+        {
+            "kanji": null,
+            "kana": "あすか",
+            "en": "a fictitious Japanese restaurant"
+        },
+        {
+            "kanji": null,
+            "kana": "アップル銀行",
+            "en": "a fictitious bank"
+        },
+        {
+            "kanji": null,
+            "kana": "みどり図書館",
+            "en": "a fictitious library"
+        },
+        {
+            "kanji": null,
+            "kana": "やまと美術館",
+            "en": "a fictitious art gallery"
+        }
+    ]
+}

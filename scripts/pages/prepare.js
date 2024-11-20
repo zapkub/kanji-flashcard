@@ -23,7 +23,7 @@ const renderLessonList = async (template, list) => {
 defineCustomComponent({
     name: 'page-prepare',
     html: './scripts/pages/prepare.html',
-    onRender: async (template) => {
+    onMount: async (template) => {
         const listResponse = await fetcher('./datasource/list.json')
         const list = await listResponse.json()
         const form = template.querySelector('form')

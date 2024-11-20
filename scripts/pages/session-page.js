@@ -35,7 +35,7 @@ const vocabResolver = async (lessonIdList = []) => {
 defineCustomComponent({
     name: 'page-session',
     html: './scripts/pages/session.html',
-    onRender: async (template) => {
+    onMount: async (template) => {
 
         const endButton = template.querySelector('ui-button#end-button')
         endButton.addClickHandler(template.onEnd)
@@ -58,8 +58,29 @@ defineCustomComponent({
         state.seed = seed
         Router.setState(state)
         template.render()
+
+        template.addListener()
+    },
+    onUnmount(template) {
+        template.removeListener()
     },
     extends: {
+        addListener(template) {
+            window.addEventListener('keypress', template.onKeypress) 
+        },
+        removeListener() {
+            window.removeEventListener('keypress', template.onKeypress)
+        },
+
+
+        onKeypress(template, evt) {
+            evt.preventDefault()
+            if (evt.key === 'r') {
+                template.onReveal()
+            } else if (evt.key === 'n') {
+                template.onNext()
+            }
+        },
 
         render(template) {
             template.renderVocab()
@@ -68,6 +89,7 @@ defineCustomComponent({
                 <span slot="word-count"> ${state.vocabIdx+1} / ${template.vocabs.length} </span>
             `
         },
+
 
         renderVocab(template) {
             const state = Router.getState()

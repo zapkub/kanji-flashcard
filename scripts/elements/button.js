@@ -2,7 +2,7 @@ import { defineCustomComponent } from "../common/base.js"
 defineCustomComponent({
     name: 'ui-button', 
     html: './scripts/elements/button.html',
-    onRender: async (template) => {
+    onMount: async (template) => {
         const button = template.getElement('ui-button')
     },
     extends: {

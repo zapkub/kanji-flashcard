@@ -2,19 +2,19 @@
     "label": "Minna Nihongo Book 1 Lesson 5",
     "vocab": [
         {
-            "kanji": null,
+            "kanji": "行きます",
             "kana": "いきます",
             "en": "go"
         },
         {
-            "kanji": null,
+            "kanji": "来ます",
             "kana": "きます",
             "en": "come"
         },
         {
-            "kanji": null,
+            "kanji": "帰ります",
             "kana": "かえります",
-            "en": "go home, return"
+            "en": "go home"
         },
         {
             "kanji": "学校",

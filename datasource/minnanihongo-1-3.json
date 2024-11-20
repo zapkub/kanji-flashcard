@@ -1,0 +1,195 @@
+ {
+        "label": "Minna Nihongo Book 1 Lesson 3",
+        "vocab": [
+            {
+                "kanji": "靴",
+                "kana": "くつ",
+                "en": "shoes"
+            },
+            {
+                "kanji": "ネクタイ",
+                "kana": "ネクタイ",
+                "en": "tie, necktie"
+            },
+            {
+                "kanji": "ワイン",
+                "kana": "ワイン",
+                "en": "wine"
+            },
+            {
+                "kanji": "売り場",
+                "kana": "うりば",
+                "en": "department, counter (in a department store, etc.)"
+            },
+            {
+                "kanji": "地下",
+                "kana": "ちか",
+                "en": "basement"
+            },
+            {
+                "kanji": "階",
+                "kana": "かい",
+                "en": "-th floor"
+            },
+            {
+                "kanji": "何階",
+                "kana": "なんがい",
+                "en": "what floor"
+            },
+            {
+                "kanji": "円",
+                "kana": "えん",
+                "en": "yen"
+            },
+            {
+                "kanji": null,
+                "kana": "いくら",
+                "en": "how much"
+            },
+            {
+                "kanji": "百",
+                "kana": "ひゃく",
+                "en": "hundred"
+            },
+            {
+                "kanji": "千",
+                "kana": "せん",
+                "en": "thousand"
+            },
+            {
+                "kanji": "万",
+                "kana": "まん",
+                "en": "ten thousand"
+            },
+            {
+                "kanji": null,
+                "kana": "いらっしゃいませ",
+                "en": "Welcome. May I help you?"
+            },
+            {
+                "kanji": null,
+                "kana": "～をみせてください",
+                "en": "Please show me [~]"
+            },
+            {
+                "kanji": null,
+                "kana": "じゃ",
+                "en": "well, then, in that case"
+            },
+            {
+                "kanji": null,
+                "kana": "どうぞ",
+                "en": "please"
+            },
+            {
+                "kanji": null,
+                "kana": "イタリア",
+                "en": "Italy"
+            },
+            {
+                "kanji": null,
+                "kana": "スイス",
+                "en": "Switzerland"
+            },
+            {
+                "kanji": null,
+                "kana": "フランス",
+                "en": "France"
+            },
+            {
+                "kanji": null,
+                "kana": "ジャカルタ",
+                "en": "Jakarta"
+            },
+            {
+                "kanji": null,
+                "kana": "バンコク",
+                "en": "Bangkok"
+            },
+            {
+                "kanji": null,
+                "kana": "ベルリン",
+                "en": "Berlin"
+            },
+            {
+                "kanji": "新駅",
+                "kana": "しんえき",
+                "en": "name of a station in Osaka"
+            },
+            {
+                "kanji": "教室",
+                "kana": "きょうしつ",
+                "en": "classroom"
+            },
+            {
+                "kanji": "食堂",
+                "kana": "しょくどう",
+                "en": "dining hall, canteen"
+            },
+            {
+                "kanji": "会議室",
+                "kana": "かいぎしつ",
+                "en": "conference room, meeting room"
+            },
+            {
+                "kanji": "受付",
+                "kana": "うけつけ",
+                "en": "reception desk"
+            },
+            {
+                "kanji": null,
+                "kana": "ロビー",
+                "en": "lobby"
+            },
+            {
+                "kanji": "部屋",
+                "kana": "へや",
+                "en": "room"
+            },
+            {
+                "kanji": "お手洗い",
+                "kana": "おてあらい",
+                "en": "toilet, rest room"
+            },
+            {
+                "kanji": "階段",
+                "kana": "かいだん",
+                "en": "staircase"
+            },
+            {
+                "kanji": null,
+                "kana": "エレベーター",
+                "en": "lift, elevator"
+            },
+            {
+                "kanji": null,
+                "kana": "エスカレーター",
+                "en": "escalator"
+            },
+            {
+                "kanji": "自動販売機",
+                "kana": "じどうはんばいき",
+                "en": "vending machine"
+            },
+            {
+                "kanji": "電話",
+                "kana": "でんわ",
+                "en": "telephone"
+            },
+            {
+                "kanji": "国",
+                "kana": "くに",
+                "en": "country"
+            },
+            {
+                "kanji": "会社",
+                "kana": "かいしゃ",
+                "en": "company"
+            },
+            {
+                "kanji": "家",
+                "kana": "いえ",
+                "en": "house, home"
+            }
+        ]
+    }
