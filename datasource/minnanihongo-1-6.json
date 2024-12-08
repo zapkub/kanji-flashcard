@@ -1,0 +1,265 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 6",
+    "vocab": [
+        {
+            "kanji": "食べます",
+            "kana": "たべます",
+            "en": "eat"
+        },
+        {
+            "kanji": "飲みます",
+            "kana": "のみます",
+            "en": "drink"
+        },
+        {
+            "kanji": "吸います",
+            "kana": "すいます",
+            "en": "smoke [a cigarette]"
+        },
+        {
+            "kanji": "見ます",
+            "kana": "みます",
+            "en": "see, look at, watch"
+        },
+        {
+            "kanji": "聞きます",
+            "kana": "ききます",
+            "en": "hear, listen"
+        },
+        {
+            "kanji": "読みます",
+            "kana": "よみます",
+            "en": "read"
+        },
+        {
+            "kanji": "書きます",
+            "kana": "かきます",
+            "en": "write"
+        },
+        {
+            "kanji": "買います",
+            "kana": "かいます",
+            "en": "buy"
+        },
+        {
+            "kanji": "撮ります",
+            "kana": "とります",
+            "en": "take [a photograph]"
+        },
+        {
+            "kanji": null,
+            "kana": "します",
+            "en": "do, play"
+        },
+        {
+            "kanji": "会います",
+            "kana": "あいます",
+            "en": "meet [friend]"
+        },
+        {
+            "kanji": null,
+            "kana": "ごはん",
+            "en": "a meal, cooked rice"
+        },
+        {
+            "kanji": "朝ごはん",
+            "kana": "あさごはん",
+            "en": "breakfast"
+        },
+        {
+            "kanji": "昼ごはん",
+            "kana": "ひるごはん",
+            "en": "lunch"
+        },
+        {
+            "kanji": "晩ごはん",
+            "kana": "ばんごはん",
+            "en": "supper"
+        },
+        {
+            "kanji": null,
+            "kana": "パン",
+            "en": "bread"
+        },
+        {
+            "kanji": "卵",
+            "kana": "たまご",
+            "en": "egg"
+        },
+        {
+            "kanji": "肉",
+            "kana": "にく",
+            "en": "meat"
+        },
+        {
+            "kanji": "魚",
+            "kana": "さかな",
+            "en": "fish"
+        },
+        {
+            "kanji": "野菜",
+            "kana": "やさい",
+            "en": "vegetable"
+        },
+        {
+            "kanji": "果物",
+            "kana": "くだもの",
+            "en": "fruit"
+        },
+        {
+            "kanji": "水",
+            "kana": "みず",
+            "en": "water"
+        },
+        {
+            "kanji": "お茶",
+            "kana": "おちゃ",
+            "en": "tea, green tea"
+        },
+        {
+            "kanji": "紅茶",
+            "kana": "こうちゃ",
+            "en": "black tea"
+        },
+        {
+            "kanji": "牛乳",
+            "kana": "ぎゅうにゅう",
+            "en": "milk"
+        },
+        {
+            "kanji": null,
+            "kana": "ジュース",
+            "en": "juice"
+        },
+        {
+            "kanji": null,
+            "kana": "ビール",
+            "en": "beer"
+        },
+        {
+            "kanji": "お酒",
+            "kana": "おさけ",
+            "en": "alcohol, Japanese rice wine"
+        },
+        {
+            "kanji": null,
+            "kana": "たばこ",
+            "en": "tobacco, cigarette"
+        },
+        {
+            "kanji": "手紙",
+            "kana": "てがみ",
+            "en": "letter"
+        },
+        {
+            "kanji": null,
+            "kana": "レポート",
+            "en": "report"
+        },
+        {
+            "kanji": "写真",
+            "kana": "しゃしん",
+            "en": "photograph"
+        },
+        {
+            "kanji": null,
+            "kana": "ビデオ",
+            "en": "video [tape], video deck"
+        },
+        {
+            "kanji": "店",
+            "kana": "みせ",
+            "en": "shop, store"
+        },
+        {
+            "kanji": "庭",
+            "kana": "にわ",
+            "en": "garden"
+        },
+        {
+            "kanji": "宿題",
+            "kana": "しゅくだい",
+            "en": "homework"
+        },
+        {
+            "kanji": null,
+            "kana": "テニス",
+            "en": "tennis"
+        },
+        {
+            "kanji": null,
+            "kana": "サッカー",
+            "en": "soccer, football"
+        },
+        {
+            "kanji": "お花見",
+            "kana": "おはなみ",
+            "en": "cherry-blossom viewing"
+        },
+        {
+            "kanji": "何",
+            "kana": "なに",
+            "en": "what"
+        },
+        {
+            "kanji": null,
+            "kana": "いっしょに",
+            "en": "together"
+        },
+        {
+            "kanji": null,
+            "kana": "ちょっと",
+            "en": "a little while, a little bit"
+        },
+        {
+            "kanji": null,
+            "kana": "いつも",
+            "en": "always, usually"
+        },
+        {
+            "kanji": "時々",
+            "kana": "ときどき",
+            "en": "sometimes"
+        },
+        {
+            "kanji": null,
+            "kana": "それから",
+            "en": "after that, and then"
+        },
+        {
+            "kanji": null,
+            "kana": "ええ",
+            "en": "yes"
+        },
+        {
+            "kanji": null,
+            "kana": "いいですね",
+            "en": "That's good"
+        },
+        {
+            "kanji": null,
+            "kana": "わかりました",
+            "en": "I see"
+        },
+        {
+            "kanji": null,
+            "kana": "メキシコ",
+            "en": "Mexico"
+        },
+        {
+            "kanji": null,
+            "kana": "つるや",
+            "en": "a fictitious supermarket"
+        },
+        {
+            "kanji": null,
+            "kana": "フランス屋",
+            "en": "a fictitious supermarket"
+        },
+        {
+            "kanji": null,
+            "kana": "毎日屋",
+            "en": "a fictitious supermarket"
+        }
+    ]
+}
