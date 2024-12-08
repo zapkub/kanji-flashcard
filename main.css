@@ -2,6 +2,21 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    height: 100vh;
-    max-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
+#root {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: stretch;
+    width: 100vw;
+}
+
+@supports (height: 100dvh) {
+    body {
+        height: 100dvh;
+    }
+  }

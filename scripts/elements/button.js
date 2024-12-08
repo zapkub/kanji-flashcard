@@ -4,6 +4,7 @@ defineCustomComponent({
     html: './scripts/elements/button.html',
     onMount: async (template) => {
         const button = template.getElement('ui-button')
+        button.type = template.getAttribute('type')
     },
     extends: {
         addClickHandler: (template, handler) => {
