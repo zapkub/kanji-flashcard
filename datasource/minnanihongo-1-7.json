@@ -1,0 +1,220 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 7",
+    "vocab": [
+        {
+            "kanji": "切ります",
+            "kana": "きります",
+            "en": "cut, slice"
+        },
+        {
+            "kanji": "送ります",
+            "kana": "おくります",
+            "en": "send"
+        },
+        {
+            "kanji": null,
+            "kana": "あげます",
+            "en": "give"
+        },
+        {
+            "kanji": null,
+            "kana": "もらいます",
+            "en": "receive"
+        },
+        {
+            "kanji": "貸します",
+            "kana": "かします",
+            "en": "lend"
+        },
+        {
+            "kanji": "借ります",
+            "kana": "かります",
+            "en": "borrow"
+        },
+        {
+            "kanji": "教えます",
+            "kana": "おしえます",
+            "en": "teach"
+        },
+        {
+            "kanji": "習います",
+            "kana": "ならいます",
+            "en": "learn"
+        },
+        {
+            "kanji": null,
+            "kana": "かけます",
+            "en": "make a telephone call"
+        },
+        {
+            "kanji": "手",
+            "kana": "て",
+            "en": "hand, arm"
+        },
+        {
+            "kanji": null,
+            "kana": "はし",
+            "en": "chopsticks"
+        },
+        {
+            "kanji": null,
+            "kana": "スプーン",
+            "en": "spoon"
+        },
+        {
+            "kanji": null,
+            "kana": "ナイフ",
+            "en": "knife"
+        },
+        {
+            "kanji": null,
+            "kana": "フォーク",
+            "en": "fork"
+        },
+        {
+            "kanji": null,
+            "kana": "はさみ",
+            "en": "scissors"
+        },
+        {
+            "kanji": null,
+            "kana": "パソコン",
+            "en": "personal computer"
+        },
+        {
+            "kanji": null,
+            "kana": "ケータイ",
+            "en": "mobile phone, cell phone"
+        },
+        {
+            "kanji": null,
+            "kana": "メール",
+            "en": "e-mail"
+        },
+        {
+            "kanji": "年賀状",
+            "kana": "ねんがじょう",
+            "en": "New Year's greeting card"
+        },
+        {
+            "kanji": null,
+            "kana": "パンチ",
+            "en": "punch"
+        },
+        {
+            "kanji": null,
+            "kana": "ホッチキス",
+            "en": "stapler"
+        },
+        {
+            "kanji": null,
+            "kana": "セロテープ",
+            "en": "Sellotape, Scotch tape, clear adhesive tape"
+        },
+        {
+            "kanji": "消しゴム",
+            "kana": "けしゴム",
+            "en": "rubber, eraser"
+        },
+        {
+            "kanji": "紙",
+            "kana": "かみ",
+            "en": "paper"
+        },
+        {
+            "kanji": "花",
+            "kana": "はな",
+            "en": "flower, blossom"
+        },
+        {
+            "kanji": null,
+            "kana": "シャツ",
+            "en": "shirt"
+        },
+        {
+            "kanji": null,
+            "kana": "プレゼント",
+            "en": "present, gift"
+        },
+        {
+            "kanji": "荷物",
+            "kana": "にもつ",
+            "en": "luggage, baggage, parcel"
+        },
+        {
+            "kanji": "お金",
+            "kana": "おかね",
+            "en": "money"
+        },
+        {
+            "kanji": "切符",
+            "kana": "きっぷ",
+            "en": "ticket"
+        },
+        {
+            "kanji": null,
+            "kana": "クリスマス",
+            "en": "Christmas"
+        },
+        {
+            "kanji": "父",
+            "kana": "ちち",
+            "en": "(my) father"
+        },
+        {
+            "kanji": "母",
+            "kana": "はは",
+            "en": "(my) mother"
+        },
+        {
+            "kanji": "お父さん",
+            "kana": "おとうさん",
+            "en": "(someone else's) father, to address one's own father"
+        },
+        {
+            "kanji": "お母さん",
+            "kana": "おかあさん",
+            "en": "(someone else's) mother, to address one's own mother"
+        },
+        {
+            "kanji": null,
+            "kana": "もう",
+            "en": "already"
+        },
+        {
+            "kanji": null,
+            "kana": "まだ",
+            "en": "not yet"
+        },
+        {
+            "kanji": null,
+            "kana": "これから",
+            "en": "from now on, soon"
+        },
+        {
+            "kanji": null,
+            "kana": "いらっしゃい",
+            "en": "How nice of you to come (lit. Welcome)"
+        },
+        {
+            "kanji": "失礼します",
+            "kana": "しつれいします",
+            "en": "May I? (lit. I commit an incivility)"
+        },
+        {
+            "kanji": null,
+            "kana": "いただきます",
+            "en": "Thank you/I accept (said before starting to eat or drink)"
+        },
+        {
+            "kanji": null,
+            "kana": "ごちそうさま",
+            "en": "That was delicious (said after eating or drinking)"
+        },
+        {
+            "kanji": null,
+            "kana": "スペイン",
+            "en": "Spain"
+        }
+    ]
+}

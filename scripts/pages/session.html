@@ -8,10 +8,37 @@
         justify-content: center;
         flex-direction: column;
         gap: 4px;
+        overflow: hidden;
+        box-sizing: border-box;
+        padding-top: 8px;
+        padding-bottom: 8px;
     }
+
     :host div.word-navigator {
         display: flex;
         gap: 4px;
+    }
+    :host ui-word {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    /* Portrait */
+    @media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+        :host div.container {
+            max-height: 100vh;
+            display: flex;
+        }
+        :host div.word-container {
+            flex: 1 1 auto;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+        }
+        :host div.word-navigator {
+            flex: 0 0 auto;
+        }
     }
 </style>
 
@@ -19,12 +46,12 @@
     <div class="status">
         <span>Word <slot name="word-count"></slot></span>
     </div>
-    <div>
+    <div class="word-container">
         <ui-word></ui-word>
     </div>
     <div class="word-navigator">
-        <ui-button id="next-button">Next (N)</ui-button>
         <ui-button id="reveal-button">Reveal (R)</ui-button>
+        <ui-button id="next-button">Next (N)</ui-button>
     </div>
     <ui-button id="end-button">End</ui-button>
 </div>

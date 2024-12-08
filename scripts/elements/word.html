@@ -4,20 +4,35 @@
         text-align: center;
         gap: 8px;
     }
+
     .kanji {
         font-size: 8rem;
         font-weight: 600;
         font-style: normal;
     }
+
     .en {
         font-family: 'Roboto', sans-serif;
     }
-    .kana, .en {
+
+    .kana,
+    .en {
         font-size: 2rem;
         opacity: 0;
     }
+
     .reveal {
         opacity: 1;
+    }
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+        .kanji {
+            font-size: 6rem;
+        }
+        .kana,
+        .en {
+            font-size:  1.5rem;
+        }
     }
 </style>
 
