@@ -1,0 +1,240 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 10",
+    "vocab": [
+        {
+            "kanji": "います［が］",
+            "kana": "います［が］",
+            "en": "exist, be (referring to animate things)"
+        },
+        {
+            "kanji": "在ります［が］",
+            "kana": "あります［が］",
+            "en": "exist, be (referring to inanimate things)"
+        },
+        {
+            "kanji": "色々［な］",
+            "kana": "いろいろ［な］",
+            "en": "various"
+        },
+        {
+            "kanji": "男の人",
+            "kana": "おとこのひと",
+            "en": "man"
+        },
+        {
+            "kanji": "女の人",
+            "kana": "おんなのひと",
+            "en": "woman"
+        },
+        {
+            "kanji": "男の子",
+            "kana": "おとこのこ",
+            "en": "boy"
+        },
+        {
+            "kanji": "女の子",
+            "kana": "おんなのこ",
+            "en": "girl"
+        },
+        {
+            "kanji": "犬",
+            "kana": "いぬ",
+            "en": "dog"
+        },
+        {
+            "kanji": "猫",
+            "kana": "ねこ",
+            "en": "cat"
+        },
+        {
+            "kanji": "木",
+            "kana": "き",
+            "en": "tree"
+        },
+        {
+            "kanji": "物",
+            "kana": "もの",
+            "en": "thing"
+        },
+        {
+            "kanji": null,
+            "kana": "フィルム",
+            "en": "film"
+        },
+        {
+            "kanji": "電池",
+            "kana": "でんち",
+            "en": "battery"
+        },
+        {
+            "kanji": "箱",
+            "kana": "はこ",
+            "en": "box"
+        },
+        {
+            "kanji": null,
+            "kana": "スイッチ",
+            "en": "switch"
+        },
+        {
+            "kanji": "冷蔵庫",
+            "kana": "れいぞうこ",
+            "en": "refrigerator"
+        },
+        {
+            "kanji": null,
+            "kana": "テーブル",
+            "en": "table"
+        },
+        {
+            "kanji": null,
+            "kana": "ベッド",
+            "en": "bed"
+        },
+        {
+            "kanji": "棚",
+            "kana": "たな",
+            "en": "shelf"
+        },
+        {
+            "kanji": null,
+            "kana": "ドア",
+            "en": "door"
+        },
+        {
+            "kanji": "窓",
+            "kana": "まど",
+            "en": "window"
+        },
+        {
+            "kanji": null,
+            "kana": "ポスト",
+            "en": "mailbox, postbox"
+        },
+        {
+            "kanji": null,
+            "kana": "ビル",
+            "en": "building"
+        },
+        {
+            "kanji": "公園",
+            "kana": "こうえん",
+            "en": "park"
+        },
+        {
+            "kanji": "喫茶店",
+            "kana": "きっさてん",
+            "en": "coffee shop"
+        },
+        {
+            "kanji": "本屋",
+            "kana": "ほんや",
+            "en": "bookstore"
+        },
+        {
+            "kanji": "～屋",
+            "kana": "～や",
+            "en": "~ store"
+        },
+        {
+            "kanji": "乗り場",
+            "kana": "のりば",
+            "en": "a fixed place to catch taxis, trains, etc."
+        },
+        {
+            "kanji": "県",
+            "kana": "けん",
+            "en": "prefecture"
+        },
+        {
+            "kanji": "上",
+            "kana": "うえ",
+            "en": "on, above, over"
+        },
+        {
+            "kanji": "下",
+            "kana": "した",
+            "en": "under, below, beneath"
+        },
+        {
+            "kanji": "前",
+            "kana": "まえ",
+            "en": "front, before"
+        },
+        {
+            "kanji": "後ろ",
+            "kana": "うしろ",
+            "en": "back, behind"
+        },
+        {
+            "kanji": "右",
+            "kana": "みぎ",
+            "en": "right [side]"
+        },
+        {
+            "kanji": "左",
+            "kana": "ひだり",
+            "en": "left [side]"
+        },
+        {
+            "kanji": "中",
+            "kana": "なか",
+            "en": "in, inside"
+        },
+        {
+            "kanji": "外",
+            "kana": "そと",
+            "en": "outside"
+        },
+        {
+            "kanji": "隣",
+            "kana": "となり",
+            "en": "next, next door"
+        },
+        {
+            "kanji": "近く",
+            "kana": "ちかく",
+            "en": "near, vicinity"
+        },
+        {
+            "kanji": "間",
+            "kana": "あいだ",
+            "en": "between, among"
+        },
+        {
+            "kanji": null,
+            "kana": "～や～［など］",
+            "en": "~, ~, and so on"
+        },
+        {
+            "kanji": "一番～",
+            "kana": "いちばん～",
+            "en": "the most ~"
+        },
+        {
+            "kanji": "～段目",
+            "kana": "～だんめ",
+            "en": "the ~th shelf"
+        },
+        {
+            "kanji": null,
+            "kana": "［どうも］すみません",
+            "en": "Thank you"
+        },
+        {
+            "kanji": null,
+            "kana": "チリソース",
+            "en": "chilli sauce"
+        },
+        {
+            "kanji": "奥",
+            "kana": "おく",
+            "en": "the back"
+        },
+        {
+            "kanji": null,
+            "kana": "スパイスコーナー",
+            "en": "spice corner"
+        }
+    ]
+}

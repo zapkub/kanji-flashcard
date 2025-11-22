@@ -1,0 +1,205 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 14",
+    "vocab": [
+        {
+            "kanji": null,
+            "kana": "つけます",
+            "en": "turn on"
+        },
+        {
+            "kanji": "消します",
+            "kana": "けします",
+            "en": "turn off"
+        },
+        {
+            "kanji": "開けます",
+            "kana": "あけます",
+            "en": "open"
+        },
+        {
+            "kanji": "閉めます",
+            "kana": "しめます",
+            "en": "close, shut"
+        },
+        {
+            "kanji": "急ぎます",
+            "kana": "いそぎます",
+            "en": "hurry"
+        },
+        {
+            "kanji": "待ちます",
+            "kana": "まちます",
+            "en": "wait"
+        },
+        {
+            "kanji": "止めます",
+            "kana": "とめます",
+            "en": "stop, park"
+        },
+        {
+            "kanji": "曲がります［みぎへ～］",
+            "kana": "まがります［みぎへ～］",
+            "en": "turn [to the right]"
+        },
+        {
+            "kanji": "持ちます",
+            "kana": "もちます",
+            "en": "hold"
+        },
+        {
+            "kanji": "取ります",
+            "kana": "とります",
+            "en": "take, pass"
+        },
+        {
+            "kanji": "手伝います",
+            "kana": "てつだいます",
+            "en": "help (with a task)"
+        },
+        {
+            "kanji": "呼びます",
+            "kana": "よびます",
+            "en": "call"
+        },
+        {
+            "kanji": "話します",
+            "kana": "はなします",
+            "en": "speak, talk"
+        },
+        {
+            "kanji": "見せます",
+            "kana": "みせます",
+            "en": "show"
+        },
+        {
+            "kanji": "教えます［じゅうしょを～］",
+            "kana": "おしえます［じゅうしょを～］",
+            "en": "tell [an address]"
+        },
+        {
+            "kanji": "始めます",
+            "kana": "はじめます",
+            "en": "start, begin"
+        },
+        {
+            "kanji": "降ります［あめが～］",
+            "kana": "ふります［あめが～］",
+            "en": "rain"
+        },
+        {
+            "kanji": null,
+            "kana": "コピーします",
+            "en": "copy"
+        },
+        {
+            "kanji": null,
+            "kana": "エアコン",
+            "en": "air conditioner"
+        },
+        {
+            "kanji": null,
+            "kana": "パスポート",
+            "en": "passport"
+        },
+        {
+            "kanji": "名前",
+            "kana": "なまえ",
+            "en": "name"
+        },
+        {
+            "kanji": "住所",
+            "kana": "じゅうしょ",
+            "en": "address"
+        },
+        {
+            "kanji": "地図",
+            "kana": "ちず",
+            "en": "map"
+        },
+        {
+            "kanji": "塩",
+            "kana": "しお",
+            "en": "salt"
+        },
+        {
+            "kanji": "砂糖",
+            "kana": "さとう",
+            "en": "sugar"
+        },
+        {
+            "kanji": "読み方",
+            "kana": "よみかた",
+            "en": "how to read, way of reading"
+        },
+        {
+            "kanji": "～方",
+            "kana": "～かた",
+            "en": "how to ~, way of ~ing"
+        },
+        {
+            "kanji": null,
+            "kana": "ゆっくり",
+            "en": "slowly, leisurely"
+        },
+        {
+            "kanji": "直ぐ",
+            "kana": "すぐ",
+            "en": "immediately"
+        },
+        {
+            "kanji": "又",
+            "kana": "また",
+            "en": "again"
+        },
+        {
+            "kanji": null,
+            "kana": "あとで",
+            "en": "later"
+        },
+        {
+            "kanji": "もう少し",
+            "kana": "もうすこし",
+            "en": "a little more"
+        },
+        {
+            "kanji": null,
+            "kana": "もう～",
+            "en": "~ more, another ~"
+        },
+        {
+            "kanji": null,
+            "kana": "いいですよ。",
+            "en": "Sure. / Certainly"
+        },
+        {
+            "kanji": null,
+            "kana": "さあ",
+            "en": "right (used when encouraging some course of action)"
+        },
+        {
+            "kanji": null,
+            "kana": "あれ？",
+            "en": "Oh!(in surprise or in wonder)"
+        },
+        {
+            "kanji": "信号を右へ曲がってください。",
+            "kana": "しんごうをみぎへまがってください。",
+            "en": "Turn right at the signal."
+        },
+        {
+            "kanji": "真っ直ぐ",
+            "kana": "まっすぐ",
+            "en": "straight"
+        },
+        {
+            "kanji": "これでお願いします。",
+            "kana": "これでおねがいします。",
+            "en": "I'd like to pay with this."
+        },
+        {
+            "kanji": "お釣り",
+            "kana": "おつり",
+            "en": "change"
+        }
+    ]
+}

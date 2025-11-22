@@ -1,0 +1,230 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 12",
+    "vocab": [
+        {
+            "kanji": "簡単［な］",
+            "kana": "かんたん［な］",
+            "en": "easy, simple"
+        },
+        {
+            "kanji": "近い",
+            "kana": "ちかい",
+            "en": "near"
+        },
+        {
+            "kanji": "遠い",
+            "kana": "とおい",
+            "en": "far"
+        },
+        {
+            "kanji": "速い、早い",
+            "kana": "はやい",
+            "en": "fast, early"
+        },
+        {
+            "kanji": "遅い",
+            "kana": "おそい",
+            "en": "slow, late"
+        },
+        {
+            "kanji": "多い［人が～］",
+            "kana": "おおい［ひとが～］",
+            "en": "many [people], much"
+        },
+        {
+            "kanji": "少ない［人が～］",
+            "kana": "すくない［ひとが～］",
+            "en": "few [people], a little"
+        },
+        {
+            "kanji": "暖かい、温かい",
+            "kana": "あたたかい",
+            "en": "warm"
+        },
+        {
+            "kanji": "涼しい",
+            "kana": "すずしい",
+            "en": "cool"
+        },
+        {
+            "kanji": "甘い",
+            "kana": "あまい",
+            "en": "sweet"
+        },
+        {
+            "kanji": "辛い",
+            "kana": "からい",
+            "en": "hot (taste), spicy"
+        },
+        {
+            "kanji": "重い",
+            "kana": "おもい",
+            "en": "heavy"
+        },
+        {
+            "kanji": "軽い",
+            "kana": "かるい",
+            "en": "light"
+        },
+        {
+            "kanji": null,
+            "kana": "いい［コーヒーが～］",
+            "en": "prefer [coffee]"
+        },
+        {
+            "kanji": "季節",
+            "kana": "きせつ",
+            "en": "season"
+        },
+        {
+            "kanji": "春",
+            "kana": "はる",
+            "en": "spring"
+        },
+        {
+            "kanji": "夏",
+            "kana": "なつ",
+            "en": "summer"
+        },
+        {
+            "kanji": "秋",
+            "kana": "あき",
+            "en": "autumn, fall"
+        },
+        {
+            "kanji": "冬",
+            "kana": "ふゆ",
+            "en": "winter"
+        },
+        {
+            "kanji": "天気",
+            "kana": "てんき",
+            "en": "weather"
+        },
+        {
+            "kanji": "雨",
+            "kana": "あめ",
+            "en": "rain, rainy"
+        },
+        {
+            "kanji": "雪",
+            "kana": "ゆき",
+            "en": "snow, snowy"
+        },
+        {
+            "kanji": "曇り",
+            "kana": "くもり",
+            "en": "cloudy"
+        },
+        {
+            "kanji": null,
+            "kana": "ホテル",
+            "en": "hotel"
+        },
+        {
+            "kanji": "空港",
+            "kana": "くうこう",
+            "en": "airport"
+        },
+        {
+            "kanji": "海",
+            "kana": "うみ",
+            "en": "sea, ocean"
+        },
+        {
+            "kanji": "世界",
+            "kana": "せかい",
+            "en": "world"
+        },
+        {
+            "kanji": null,
+            "kana": "パーティー",
+            "en": "party"
+        },
+        {
+            "kanji": "［お］祭り",
+            "kana": "［お］まつり",
+            "en": "festival"
+        },
+        {
+            "kanji": "試験",
+            "kana": "しけん",
+            "en": "examination"
+        },
+        {
+            "kanji": null,
+            "kana": "すきやき",
+            "en": "sukiyaki (beef and vegetables hot pot)"
+        },
+        {
+            "kanji": "刺身",
+            "kana": "さしみ",
+            "en": "sashimi (sliced raw fish)"
+        },
+        {
+            "kanji": null,
+            "kana": "［お］すし",
+            "en": "sushi (vinegared rice topped with raw fish)"
+        },
+        {
+            "kanji": null,
+            "kana": "てんぷら",
+            "en": "tempura (seafood and vegetables deep fried in batter)"
+        },
+        {
+            "kanji": "生け花",
+            "kana": "いけばな",
+            "en": "flower arrangement"
+        },
+        {
+            "kanji": "紅葉",
+            "kana": "もみじ",
+            "en": "maple, red leaves of autumn"
+        },
+        {
+            "kanji": null,
+            "kana": "どちら",
+            "en": "which one (between two things)"
+        },
+        {
+            "kanji": null,
+            "kana": "どちらも",
+            "en": "both"
+        },
+        {
+            "kanji": null,
+            "kana": "ずっと",
+            "en": "by far"
+        },
+        {
+            "kanji": "初めて",
+            "kana": "はじめて",
+            "en": "for the first time"
+        },
+        {
+            "kanji": null,
+            "kana": "ただいま",
+            "en": "I'm home"
+        },
+        {
+            "kanji": null,
+            "kana": "おかえりなさい",
+            "en": "Welcome home"
+        },
+        {
+            "kanji": "凄いですね",
+            "kana": "すごいですね",
+            "en": "That's amazing"
+        },
+        {
+            "kanji": null,
+            "kana": "でも",
+            "en": "but"
+        },
+        {
+            "kanji": "疲れました",
+            "kana": "つかれました",
+            "en": "(I'm) tired"
+        }
+    ]
+}

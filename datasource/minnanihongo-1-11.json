@@ -1,0 +1,300 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 11",
+    "vocab": [
+        {
+            "kanji": "います［こどもが～］",
+            "kana": "います［こどもが～］",
+            "en": "have [a child]"
+        },
+        {
+            "kanji": "います［にほんに～］",
+            "kana": "います［にほんに～］",
+            "en": "stay, be [in Japan]"
+        },
+        {
+            "kanji": "掛ります",
+            "kana": "かかります",
+            "en": "take (referring to time or money)"
+        },
+        {
+            "kanji": "休みます［かいしゃを～］",
+            "kana": "やすみます［かいしゃを～］",
+            "en": "take a day off [work]"
+        },
+        {
+            "kanji": "一つ",
+            "kana": "ひとつ",
+            "en": "one (used when counting things)"
+        },
+        {
+            "kanji": "二つ",
+            "kana": "ふたつ",
+            "en": "two (used when counting things)"
+        },
+        {
+            "kanji": "三つ",
+            "kana": "みっつ",
+            "en": "three (used when counting things)"
+        },
+        {
+            "kanji": "四つ",
+            "kana": "よっつ",
+            "en": "four (used when counting things)"
+        },
+        {
+            "kanji": "五つ",
+            "kana": "いつつ",
+            "en": "five (used when counting things)"
+        },
+        {
+            "kanji": "六つ",
+            "kana": "むっつ",
+            "en": "six (used when counting things)"
+        },
+        {
+            "kanji": "七つ",
+            "kana": "ななつ",
+            "en": "seven (used when counting things)"
+        },
+        {
+            "kanji": "八つ",
+            "kana": "やっつ",
+            "en": "eight (used when counting things)"
+        },
+        {
+            "kanji": "九つ",
+            "kana": "ここのつ",
+            "en": "nine (used when counting things)"
+        },
+        {
+            "kanji": "十",
+            "kana": "とお",
+            "en": "ten (used when counting things)"
+        },
+        {
+            "kanji": "幾つ",
+            "kana": "いくつ",
+            "en": "how many"
+        },
+        {
+            "kanji": "一人",
+            "kana": "ひとり",
+            "en": "one person"
+        },
+        {
+            "kanji": "二人",
+            "kana": "ふたり",
+            "en": "two people"
+        },
+        {
+            "kanji": "～人",
+            "kana": "～にん",
+            "en": "~ people"
+        },
+        {
+            "kanji": "～台",
+            "kana": "～だい",
+            "en": "counter for machines, cars, etc."
+        },
+        {
+            "kanji": "～枚",
+            "kana": "～まい",
+            "en": "counter for paper, stamps, etc."
+        },
+        {
+            "kanji": "～回",
+            "kana": "～かい",
+            "en": "~ times"
+        },
+        {
+            "kanji": null,
+            "kana": "りんご",
+            "en": "apple"
+        },
+        {
+            "kanji": "蜜柑",
+            "kana": "みかん",
+            "en": "mandarin orange"
+        },
+        {
+            "kanji": null,
+            "kana": "サンドイッチ",
+            "en": "sandwich"
+        },
+        {
+            "kanji": null,
+            "kana": "カレー［ライス］",
+            "en": "curry [and rice]"
+        },
+        {
+            "kanji": null,
+            "kana": "アイスクリーム",
+            "en": "ice cream"
+        },
+        {
+            "kanji": "切手",
+            "kana": "きって",
+            "en": "postage stamp"
+        },
+        {
+            "kanji": "葉書",
+            "kana": "はがき",
+            "en": "post card"
+        },
+        {
+            "kanji": "封筒",
+            "kana": "ふうとう",
+            "en": "envelope"
+        },
+        {
+            "kanji": "速達",
+            "kana": "そくたつ",
+            "en": "special delivery"
+        },
+        {
+            "kanji": "書留",
+            "kana": "かきとめ",
+            "en": "registered mail"
+        },
+        {
+            "kanji": "エヤメール（航空便）",
+            "kana": "エヤメール（こうくうびん）",
+            "en": "airmail"
+        },
+        {
+            "kanji": "船便",
+            "kana": "ふなびん",
+            "en": "sea mail"
+        },
+        {
+            "kanji": "両親",
+            "kana": "りょうしん",
+            "en": "parents"
+        },
+        {
+            "kanji": "兄弟",
+            "kana": "きょうだい",
+            "en": "brothers and sisters"
+        },
+        {
+            "kanji": "兄",
+            "kana": "あに",
+            "en": "(my) elder brother"
+        },
+        {
+            "kanji": "お兄さん",
+            "kana": "おにいさん",
+            "en": "(someone else's) elder brother"
+        },
+        {
+            "kanji": "姉",
+            "kana": "あね",
+            "en": "(my) elder sister"
+        },
+        {
+            "kanji": "お姉さん",
+            "kana": "おねえさん",
+            "en": "(someone else's) elder sister"
+        },
+        {
+            "kanji": "弟",
+            "kana": "おとうと",
+            "en": "(my) younger brother"
+        },
+        {
+            "kanji": "弟さん",
+            "kana": "おとうとさん",
+            "en": "(someone else's) younger brother"
+        },
+        {
+            "kanji": "妹",
+            "kana": "いもうと",
+            "en": "(my) younger sister"
+        },
+        {
+            "kanji": "妹さん",
+            "kana": "いもうとさん",
+            "en": "(someone else's) younger sister"
+        },
+        {
+            "kanji": "外国",
+            "kana": "がいこく",
+            "en": "foreign country"
+        },
+        {
+            "kanji": "～時間",
+            "kana": "～じかん",
+            "en": "~hours"
+        },
+        {
+            "kanji": "～週間",
+            "kana": "～しゅうかん",
+            "en": "~weeks"
+        },
+        {
+            "kanji": "～か月",
+            "kana": "～かげつ",
+            "en": "~months"
+        },
+        {
+            "kanji": "～年",
+            "kana": "～ねん",
+            "en": "~years"
+        },
+        {
+            "kanji": null,
+            "kana": "～ぐらい",
+            "en": "about ~"
+        },
+        {
+            "kanji": null,
+            "kana": "～どのくらい",
+            "en": "how long"
+        },
+        {
+            "kanji": "全部で",
+            "kana": "ぜんぶで",
+            "en": "in total"
+        },
+        {
+            "kanji": "皆",
+            "kana": "みんな",
+            "en": "all, everything"
+        },
+        {
+            "kanji": null,
+            "kana": "～だけ",
+            "en": "only ~"
+        },
+        {
+            "kanji": null,
+            "kana": "いらっしゃいませ",
+            "en": "Welcome / May I help you?"
+        },
+        {
+            "kanji": "いい［お］天気ですね",
+            "kana": "いい［お］てんきですね",
+            "en": "Nice weather, isn't it?"
+        },
+        {
+            "kanji": "お出かけですか",
+            "kana": "おでかけですか",
+            "en": "Are you going out?"
+        },
+        {
+            "kanji": "一寸～まで",
+            "kana": "ちょっと～まで",
+            "en": "I'm just going to ~"
+        },
+        {
+            "kanji": "行っていらっしゃい",
+            "kana": "いっていらっしゃい",
+            "en": "So long (lit. Go and come back)"
+        },
+        {
+            "kanji": "行ってまいります",
+            "kana": "いってまいります",
+            "en": "So long (lit. I'm going and coming back)"
+        }
+    ]
+}

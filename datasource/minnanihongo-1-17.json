@@ -1,0 +1,195 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 17",
+    "vocab": [
+        {
+            "kanji": "覚えます",
+            "kana": "おぼえます",
+            "en": "memorise"
+        },
+        {
+            "kanji": "忘れます",
+            "kana": "わすれます",
+            "en": "forget"
+        },
+        {
+            "kanji": "亡くします（無くします）",
+            "kana": "なくします",
+            "en": "lose"
+        },
+        {
+            "kanji": "出します［レポートを～］",
+            "kana": "だします［レポートを～］",
+            "en": "hand in [a report]"
+        },
+        {
+            "kanji": "払います",
+            "kana": "はらいます",
+            "en": "pay"
+        },
+        {
+            "kanji": "返します",
+            "kana": "かえします",
+            "en": "give back, return"
+        },
+        {
+            "kanji": "出かけます",
+            "kana": "でかけます",
+            "en": "go out"
+        },
+        {
+            "kanji": "脱ぎます",
+            "kana": "ぬぎます",
+            "en": "take off (clothes, shoes, etc.)"
+        },
+        {
+            "kanji": "持って行きます",
+            "kana": "もっていきます",
+            "en": "take (something) (lit. grab and go)"
+        },
+        {
+            "kanji": "持って来ます",
+            "kana": "もってきます",
+            "en": "bring (something) (lit. grab and come)"
+        },
+        {
+            "kanji": "心配します",
+            "kana": "しんぱいします",
+            "en": "worry"
+        },
+        {
+            "kanji": "残業します",
+            "kana": "ざんぎょうします",
+            "en": "work overtime"
+        },
+        {
+            "kanji": "出張します",
+            "kana": "しゅっちょうします",
+            "en": "go on a business trip"
+        },
+        {
+            "kanji": "飲みます［くすりを～］",
+            "kana": "のみます［くすりを～］",
+            "en": "take [medicine]"
+        },
+        {
+            "kanji": "入ります［おふろに～］",
+            "kana": "はいります［おふろに～］",
+            "en": "take [a bath]"
+        },
+        {
+            "kanji": "大切［な］",
+            "kana": "たいせつ［な］",
+            "en": "important, precious"
+        },
+        {
+            "kanji": "大丈夫［な］",
+            "kana": "だいじょうぶ［な］",
+            "en": "all right"
+        },
+        {
+            "kanji": "危ない",
+            "kana": "あぶない",
+            "en": "dangerous"
+        },
+        {
+            "kanji": "問題",
+            "kana": "もんだい",
+            "en": "question, problem, trouble"
+        },
+        {
+            "kanji": "答え",
+            "kana": "こたえ",
+            "en": "answer"
+        },
+        {
+            "kanji": "禁煙",
+            "kana": "きんえん",
+            "en": "no smoking"
+        },
+        {
+            "kanji": "［健康］保険証",
+            "kana": "［けんこう］ほけんしょう",
+            "en": "[health] insurance card"
+        },
+        {
+            "kanji": "風邪",
+            "kana": "かぜ",
+            "en": "cold"
+        },
+        {
+            "kanji": "熱",
+            "kana": "ねつ",
+            "en": "fever"
+        },
+        {
+            "kanji": "病気",
+            "kana": "びょうき",
+            "en": "illness, disease"
+        },
+        {
+            "kanji": "薬",
+            "kana": "くすり",
+            "en": "medicine"
+        },
+        {
+            "kanji": "［お］風呂",
+            "kana": "［お］ふろ",
+            "en": "bath"
+        },
+        {
+            "kanji": "上着",
+            "kana": "うわぎ",
+            "en": "jacket, outerwear"
+        },
+        {
+            "kanji": "下着",
+            "kana": "したぎ",
+            "en": "underwear"
+        },
+        {
+            "kanji": "先生",
+            "kana": "せんせい",
+            "en": "doctor (used when addressing a medical doctor)"
+        },
+        {
+            "kanji": "２、３日",
+            "kana": "２、３にち",
+            "en": "a few days"
+        },
+        {
+            "kanji": null,
+            "kana": "２、３～",
+            "en": "a few ~ (~ is a counter suffix)"
+        },
+        {
+            "kanji": null,
+            "kana": "～までに",
+            "en": "before ~, by ~ (indicating time limit)"
+        },
+        {
+            "kanji": null,
+            "kana": "ですから",
+            "en": "therefore, so"
+        },
+        {
+            "kanji": null,
+            "kana": "どうしましたか。",
+            "en": "What's the matter?"
+        },
+        {
+            "kanji": "［～が］痛いです。",
+            "kana": "［～が］いたいです。",
+            "en": "(I) have a pain [in my ~]."
+        },
+        {
+            "kanji": null,
+            "kana": "のど",
+            "en": "throat"
+        },
+        {
+            "kanji": "お大事に。",
+            "kana": "おだいじに。",
+            "en": "Take care of yourself. (said to people who are ill)"
+        }
+    ]
+}

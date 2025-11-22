@@ -1,0 +1,235 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 16",
+    "vocab": [
+        {
+            "kanji": "乗ります［でんしゃに～］",
+            "kana": "のります［でんしゃに～］",
+            "en": "ride, get on [a train]"
+        },
+        {
+            "kanji": "降ります［でんしゃを～］",
+            "kana": "おります［でんしゃを～］",
+            "en": "get off [a train]"
+        },
+        {
+            "kanji": "乗り換えます",
+            "kana": "のりかえます",
+            "en": "change (trains, etc.)"
+        },
+        {
+            "kanji": "浴びます［シャワーを～］",
+            "kana": "あびます［シャワーを～］",
+            "en": "take [a shower]"
+        },
+        {
+            "kanji": "入れます",
+            "kana": "いれます",
+            "en": "put in, insert"
+        },
+        {
+            "kanji": "出します",
+            "kana": "だします",
+            "en": "take out, withdraw"
+        },
+        {
+            "kanji": "入ります［だいがくに～］",
+            "kana": "はいります［だいがくに～］",
+            "en": "enter [university]"
+        },
+        {
+            "kanji": "出ます［だいがくを～］",
+            "kana": "でます［だいがくを～］",
+            "en": "graduate from [university]"
+        },
+        {
+            "kanji": "辞めます［かいしゃを～］",
+            "kana": "やめます［かいしゃを～］",
+            "en": "quit or retire from [a company], stop, give up"
+        },
+        {
+            "kanji": "押します",
+            "kana": "おします",
+            "en": "press, push"
+        },
+        {
+            "kanji": "若い",
+            "kana": "わかい",
+            "en": "young"
+        },
+        {
+            "kanji": "長い",
+            "kana": "ながい",
+            "en": "long"
+        },
+        {
+            "kanji": "短い",
+            "kana": "みじかい",
+            "en": "short"
+        },
+        {
+            "kanji": "明るい",
+            "kana": "あかるい",
+            "en": "bright, light"
+        },
+        {
+            "kanji": "暗い",
+            "kana": "くらい",
+            "en": "dark (depressed)"
+        },
+        {
+            "kanji": "背が高い",
+            "kana": "せがたかい",
+            "en": "tall (referring to person)"
+        },
+        {
+            "kanji": "頭がいい",
+            "kana": "あたまがいい",
+            "en": "clever, smart"
+        },
+        {
+            "kanji": "体",
+            "kana": "からだ",
+            "en": "body"
+        },
+        {
+            "kanji": "頭",
+            "kana": "あたま",
+            "en": "head"
+        },
+        {
+            "kanji": "髪",
+            "kana": "かみ",
+            "en": "hair"
+        },
+        {
+            "kanji": "顔",
+            "kana": "かお",
+            "en": "face"
+        },
+        {
+            "kanji": "目",
+            "kana": "め",
+            "en": "eye"
+        },
+        {
+            "kanji": "耳",
+            "kana": "みみ",
+            "en": "ear"
+        },
+        {
+            "kanji": "口",
+            "kana": "くち",
+            "en": "mouth"
+        },
+        {
+            "kanji": "歯",
+            "kana": "は",
+            "en": "tooth"
+        },
+        {
+            "kanji": "お腹",
+            "kana": "おなか",
+            "en": "stomach"
+        },
+        {
+            "kanji": "足",
+            "kana": "あし",
+            "en": "leg, foot"
+        },
+        {
+            "kanji": null,
+            "kana": "サービス",
+            "en": "service"
+        },
+        {
+            "kanji": null,
+            "kana": "ジョギング",
+            "en": "jogging"
+        },
+        {
+            "kanji": null,
+            "kana": "シャワー",
+            "en": "shower"
+        },
+        {
+            "kanji": "緑",
+            "kana": "みどり",
+            "en": "green, greenery"
+        },
+        {
+            "kanji": "［お］寺",
+            "kana": "［お］てら",
+            "en": "Buddhist temple"
+        },
+        {
+            "kanji": "神社",
+            "kana": "じんじゃ",
+            "en": "Shinto shrine"
+        },
+        {
+            "kanji": "留学生",
+            "kana": "りゅうがくせい",
+            "en": "foreign student"
+        },
+        {
+            "kanji": "～番",
+            "kana": "～ばん",
+            "en": "number ~"
+        },
+        {
+            "kanji": null,
+            "kana": "どうやって",
+            "en": "in what way, how"
+        },
+        {
+            "kanji": null,
+            "kana": "どの～",
+            "en": "which ~ (used for three or more)"
+        },
+        {
+            "kanji": null,
+            "kana": "［いいえ、］まだまだです。",
+            "en": "[No,] I still have a long way to go."
+        },
+        {
+            "kanji": "お引き出しですか。",
+            "kana": "おひきだしですか。",
+            "en": "Are you making a withdrawl?"
+        },
+        {
+            "kanji": "先ず",
+            "kana": "まず",
+            "en": "first of all"
+        },
+        {
+            "kanji": null,
+            "kana": "キャッシュカード",
+            "en": "cash dispensing card"
+        },
+        {
+            "kanji": "暗証番号",
+            "kana": "あんしょうばんごう",
+            "en": "personal identification number, PIN"
+        },
+        {
+            "kanji": "次に",
+            "kana": "つぎに",
+            "en": "next, as a next step"
+        },
+        {
+            "kanji": "金額",
+            "kana": "きんがく",
+            "en": "amount of money"
+        },
+        {
+            "kanji": "確認",
+            "kana": "かくにん",
+            "en": "confirmation"
+        },
+        {
+            "kanji": null,
+            "kana": "ボタン",
+            "en": "button"
+        }
+    ]
+}

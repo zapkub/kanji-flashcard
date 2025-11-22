@@ -1,0 +1,255 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 9",
+    "vocab": [
+        {
+            "kanji": "分かります［が］",
+            "kana": "わかります［が］",
+            "en": "understand"
+        },
+        {
+            "kanji": "在ります［が］",
+            "kana": "あります［が］",
+            "en": "have"
+        },
+        {
+            "kanji": "好き［な］",
+            "kana": "すき［な］",
+            "en": "like"
+        },
+        {
+            "kanji": "嫌い［な］",
+            "kana": "きらい［な］",
+            "en": "dislike"
+        },
+        {
+            "kanji": "上手［な］",
+            "kana": "じょうず［な］",
+            "en": "good at"
+        },
+        {
+            "kanji": "下手［な］",
+            "kana": "へた［な］",
+            "en": "poor at"
+        },
+        {
+            "kanji": "料理",
+            "kana": "りょうり",
+            "en": "dish (cooked food), cooking"
+        },
+        {
+            "kanji": "飲み物",
+            "kana": "のみもの",
+            "en": "drinks"
+        },
+        {
+            "kanji": null,
+            "kana": "スポーツ",
+            "en": "sport"
+        },
+        {
+            "kanji": "野球",
+            "kana": "やきゅう",
+            "en": "baseball"
+        },
+        {
+            "kanji": null,
+            "kana": "ダンス",
+            "en": "dance"
+        },
+        {
+            "kanji": "音楽",
+            "kana": "おんがく",
+            "en": "music"
+        },
+        {
+            "kanji": "歌",
+            "kana": "うた",
+            "en": "song"
+        },
+        {
+            "kanji": null,
+            "kana": "クラシック",
+            "en": "classical music"
+        },
+        {
+            "kanji": null,
+            "kana": "ジャズ",
+            "en": "jazz"
+        },
+        {
+            "kanji": null,
+            "kana": "コンサート",
+            "en": "concert"
+        },
+        {
+            "kanji": null,
+            "kana": "カラオケ",
+            "en": "karaoke"
+        },
+        {
+            "kanji": "歌舞伎",
+            "kana": "かぶき",
+            "en": "Kabuki (traditional Japanese musical drama)"
+        },
+        {
+            "kanji": "絵",
+            "kana": "え",
+            "en": "picture, drawing"
+        },
+        {
+            "kanji": "字",
+            "kana": "じ",
+            "en": "letter, character"
+        },
+        {
+            "kanji": "漢字",
+            "kana": "かんじ",
+            "en": "Chinese characters"
+        },
+        {
+            "kanji": null,
+            "kana": "ひらがな",
+            "en": "Hiragana script"
+        },
+        {
+            "kanji": null,
+            "kana": "かたかな",
+            "en": "Katakana script"
+        },
+        {
+            "kanji": "ローマ字",
+            "kana": "ローマじ",
+            "en": "the Roman alphabet"
+        },
+        {
+            "kanji": "細かいお金",
+            "kana": "こまかいおかね",
+            "en": "small change"
+        },
+        {
+            "kanji": null,
+            "kana": "チケット",
+            "en": "ticket"
+        },
+        {
+            "kanji": "時間",
+            "kana": "じかん",
+            "en": "time"
+        },
+        {
+            "kanji": "用事",
+            "kana": "ようじ",
+            "en": "something to do, errand"
+        },
+        {
+            "kanji": "約束",
+            "kana": "やくそく",
+            "en": "appointment, promise"
+        },
+        {
+            "kanji": "ご主人",
+            "kana": "ごしゅじん",
+            "en": "(someone else's) husband"
+        },
+        {
+            "kanji": "夫／主人",
+            "kana": "おっと／しゅじん",
+            "en": "(my) husband"
+        },
+        {
+            "kanji": "奥さん",
+            "kana": "おくさん",
+            "en": "(someone else's) wife"
+        },
+        {
+            "kanji": "妻／家内",
+            "kana": "つま／かない",
+            "en": "(my) wife"
+        },
+        {
+            "kanji": "子ども",
+            "kana": "こども",
+            "en": "child"
+        },
+        {
+            "kanji": null,
+            "kana": "よく",
+            "en": "well, much"
+        },
+        {
+            "kanji": null,
+            "kana": "だいたい",
+            "en": "mostly, roughly"
+        },
+        {
+            "kanji": null,
+            "kana": "たくさん",
+            "en": "many, much"
+        },
+        {
+            "kanji": "少し",
+            "kana": "すこし",
+            "en": "a little, a few"
+        },
+        {
+            "kanji": "全然",
+            "kana": "ぜんぜん",
+            "en": "not at all (used with negatives)"
+        },
+        {
+            "kanji": "早く、速く",
+            "kana": "はやく",
+            "en": "early, quickly, fast"
+        },
+        {
+            "kanji": null,
+            "kana": "～から",
+            "en": "because ~"
+        },
+        {
+            "kanji": null,
+            "kana": "どうして",
+            "en": "why"
+        },
+        {
+            "kanji": null,
+            "kana": "ざんねんです［ね］",
+            "en": "I'm sorry (to hear that) / That's a pity"
+        },
+        {
+            "kanji": null,
+            "kana": "すみません",
+            "en": "I am sorry"
+        },
+        {
+            "kanji": null,
+            "kana": "もしもし",
+            "en": "hello (used on phone)"
+        },
+        {
+            "kanji": null,
+            "kana": "ああ",
+            "en": "oh"
+        },
+        {
+            "kanji": null,
+            "kana": "いっしょにいかがですか",
+            "en": "Won't you join me (us)?"
+        },
+        {
+            "kanji": null,
+            "kana": "［～は］ちょっと…",
+            "en": "[~] is a bit difficult (euphemism when declining)"
+        },
+        {
+            "kanji": "駄目ですか",
+            "kana": "だめですか",
+            "en": "So you cannot (come)?"
+        },
+        {
+            "kanji": "また今度お願いします",
+            "kana": "またこんどおねがいします",
+            "en": "Please ask me again some other time"
+        }
+    ]
+}

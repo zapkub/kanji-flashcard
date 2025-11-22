@@ -3,52 +3,52 @@
     "vocab": [
         {
             "kanji": null,
-            "kana": "ハンサム",
+            "kana": "ハンサム［な］",
             "en": "handsome"
         },
         {
             "kanji": null,
-            "kana": "きれい",
+            "kana": "きれい［な］",
             "en": "beautiful, clean"
         },
         {
-            "kanji": "静か",
-            "kana": "しずか",
+            "kanji": "静か［な］",
+            "kana": "しずか［な］",
             "en": "quiet"
         },
         {
-            "kanji": null,
-            "kana": "にぎやか",
+            "kanji": "賑やか［な］",
+            "kana": "にぎやか［な］",
             "en": "lively"
         },
         {
-            "kanji": "有名",
-            "kana": "ゆうめい",
+            "kanji": "有名［な］",
+            "kana": "ゆうめい［な］",
             "en": "famous"
         },
         {
-            "kanji": "親切",
-            "kana": "しんせつ",
+            "kanji": "親切［な］",
+            "kana": "しんせつ［な］",
             "en": "kind"
         },
         {
-            "kanji": "元気",
-            "kana": "げんき",
+            "kanji": "元気［な］",
+            "kana": "げんき［な］",
             "en": "healthy, sound, cheerful"
         },
         {
-            "kanji": "暇",
-            "kana": "ひま",
+            "kanji": "暇［な］",
+            "kana": "ひま［な］",
             "en": "free (time)"
         },
         {
-            "kanji": "便利",
-            "kana": "べんり",
+            "kanji": "便利［な］",
+            "kana": "べんり［な］",
             "en": "convenient"
         },
         {
-            "kanji": null,
-            "kana": "すてき",
+            "kanji": "素敵［な］",
+            "kana": "すてき［な］",
             "en": "fine, nice, wonderful"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "kanji": null,
-            "kana": "いい",
+            "kana": "いい（よい）",
             "en": "good"
         },
         {
@@ -82,24 +82,19 @@
             "en": "bad"
         },
         {
-            "kanji": "暑い",
+            "kanji": "厚い、熱い",
             "kana": "あつい",
-            "en": "hot (weather)"
-        },
-        {
-            "kanji": "熱い",
-            "kana": "あつい",
-            "en": "hot (touch)"
+            "en": "hot"
         },
         {
             "kanji": "寒い",
             "kana": "さむい",
-            "en": "cold (weather)"
+            "en": "cold (referring to temperature)"
         },
         {
             "kanji": "冷たい",
             "kana": "つめたい",
-            "en": "cold (touch)"
+            "en": "cold (referring to touch, as a drink)"
         },
         {
             "kanji": "難しい",
@@ -127,12 +122,12 @@
             "en": "low"
         },
         {
-            "kanji": null,
+            "kanji": "面白い",
             "kana": "おもしろい",
             "en": "interesting"
         },
         {
-            "kanji": null,
+            "kanji": "美味しい",
             "kana": "おいしい",
             "en": "delicious, tasty"
         },
@@ -172,7 +167,7 @@
             "en": "cherry (blossom)"
         },
         {
-            "kanji": null,
+            "kanji": "山",
             "kana": "やま",
             "en": "mountain"
         },
@@ -192,29 +187,99 @@
             "en": "car, vehicle"
         },
         {
-            "kanji": "甘い",
-            "kana": "あまい",
-            "en": "sweet"
+            "kanji": "所",
+            "kana": "ところ",
+            "en": "place"
         },
         {
-            "kanji": "辛い",
-            "kana": "からい",
-            "en": "spicy, hot"
+            "kanji": "寮",
+            "kana": "りょう",
+            "en": "dormitory"
         },
         {
-            "kanji": "塩辛い",
-            "kana": "しおからい",
-            "en": "salty"
+            "kanji": "勉強",
+            "kana": "べんきょう",
+            "en": "study"
         },
         {
-            "kanji": "酸っぱい",
-            "kana": "すっぱい",
-            "en": "sour"
+            "kanji": "生活",
+            "kana": "せいかつ",
+            "en": "life"
         },
         {
-            "kanji": "苦い",
-            "kana": "にがい",
-            "en": "bitter"
+            "kanji": "［お］仕事",
+            "kana": "［お］しごと",
+            "en": "work, business"
+        },
+        {
+            "kanji": null,
+            "kana": "どう",
+            "en": "how"
+        },
+        {
+            "kanji": null,
+            "kana": "どんな～",
+            "en": "what kind of ~"
+        },
+        {
+            "kanji": null,
+            "kana": "どれ",
+            "en": "which one (of three or more)"
+        },
+        {
+            "kanji": null,
+            "kana": "とても",
+            "en": "very"
+        },
+        {
+            "kanji": null,
+            "kana": "あまり",
+            "en": "not so (used with negatives)"
+        },
+        {
+            "kanji": null,
+            "kana": "そして",
+            "en": "and (used to connect sentences)"
+        },
+        {
+            "kanji": null,
+            "kana": "～が、～",
+            "en": "~, but ~"
+        },
+        {
+            "kanji": "お元気ですか",
+            "kana": "おげんきですか",
+            "en": "How are you?"
+        },
+        {
+            "kanji": null,
+            "kana": "そうですね",
+            "en": "Well let me see (pausing)"
+        },
+        {
+            "kanji": "日本の生活に慣れましたか",
+            "kana": "にほんのせいかつになれましたか",
+            "en": "Have you got used to the life in Japan?"
+        },
+        {
+            "kanji": "［～、］もう一杯いかがですか",
+            "kana": "［～、］もういっぱいいかがですか",
+            "en": "Won't you have another cup of [~]?"
+        },
+        {
+            "kanji": null,
+            "kana": "いいえ、けっこうです",
+            "en": "No, thank you"
+        },
+        {
+            "kanji": null,
+            "kana": "もう～です［ね］",
+            "en": "It's already ~ [, isn't it?]"
+        },
+        {
+            "kanji": "そろそろ失礼します",
+            "kana": "そろそろしつれいします",
+            "en": "It's almost time to leave now"
         }
     ]
 }

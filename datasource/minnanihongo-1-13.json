@@ -1,0 +1,200 @@
+{
+    "label": "Minna Nihongo Book 1 Lesson 13",
+    "vocab": [
+        {
+            "kanji": "遊びます",
+            "kana": "あそびます",
+            "en": "enjoy oneself, play"
+        },
+        {
+            "kanji": "泳ぎます",
+            "kana": "およぎます",
+            "en": "swim"
+        },
+        {
+            "kanji": "迎えます",
+            "kana": "むかえます",
+            "en": "go to meet, welcome"
+        },
+        {
+            "kanji": "疲れます",
+            "kana": "つかれます",
+            "en": "get tired"
+        },
+        {
+            "kanji": "出します［てがみを～］",
+            "kana": "だします［てがみを～］",
+            "en": "send [a letter]"
+        },
+        {
+            "kanji": "入ります［きっさてんに～］",
+            "kana": "はいります［きっさてんに～］",
+            "en": "enter [a coffee shop]"
+        },
+        {
+            "kanji": "出ます［きっさてんを～］",
+            "kana": "でます［きっさてんを～］",
+            "en": "go out [of a coffee shop]"
+        },
+        {
+            "kanji": "結婚します",
+            "kana": "けっこんします",
+            "en": "marry, get married"
+        },
+        {
+            "kanji": "買い物します",
+            "kana": "かいものします",
+            "en": "do shopping"
+        },
+        {
+            "kanji": "食事します",
+            "kana": "しょくじします",
+            "en": "have a meal, dine"
+        },
+        {
+            "kanji": "散歩します［こうえんを～］",
+            "kana": "さんぽします［こうえんを～］",
+            "en": "take a walk [in a park]"
+        },
+        {
+            "kanji": "大変［な］",
+            "kana": "たいへん［な］",
+            "en": "hard, tough, severe, awful"
+        },
+        {
+            "kanji": "欲しい",
+            "kana": "ほしい",
+            "en": "want (something)"
+        },
+        {
+            "kanji": "寂しい",
+            "kana": "さびしい",
+            "en": "lonely"
+        },
+        {
+            "kanji": "広い",
+            "kana": "ひろい",
+            "en": "wide, spacious"
+        },
+        {
+            "kanji": "狭い",
+            "kana": "せまい",
+            "en": "narrow, small (room, etc.)"
+        },
+        {
+            "kanji": "市役所",
+            "kana": "しやくしょ",
+            "en": "municipal office, city hall"
+        },
+        {
+            "kanji": null,
+            "kana": "プール",
+            "en": "swimming pool"
+        },
+        {
+            "kanji": "川",
+            "kana": "かわ",
+            "en": "river"
+        },
+        {
+            "kanji": "経済",
+            "kana": "けいざい",
+            "en": "economy"
+        },
+        {
+            "kanji": "美術",
+            "kana": "びじゅつ",
+            "en": "fine arts"
+        },
+        {
+            "kanji": "釣り",
+            "kana": "つり",
+            "en": "fishing"
+        },
+        {
+            "kanji": null,
+            "kana": "スキー",
+            "en": "skiing"
+        },
+        {
+            "kanji": "会議",
+            "kana": "かいぎ",
+            "en": "meeting, conference"
+        },
+        {
+            "kanji": "登録",
+            "kana": "とうろく",
+            "en": "registration"
+        },
+        {
+            "kanji": "週末",
+            "kana": "しゅうまつ",
+            "en": "weekend"
+        },
+        {
+            "kanji": null,
+            "kana": "～ごろ",
+            "en": "about (time)"
+        },
+        {
+            "kanji": "何か",
+            "kana": "なにか",
+            "en": "something"
+        },
+        {
+            "kanji": null,
+            "kana": "どこか",
+            "en": "somewhere, some place"
+        },
+        {
+            "kanji": "お腹が空きました",
+            "kana": "おなかがすきました",
+            "en": "(I'm) hungry"
+        },
+        {
+            "kanji": "お腹が一杯です",
+            "kana": "おなかがいっぱいです",
+            "en": "(I'm) full"
+        },
+        {
+            "kanji": null,
+            "kana": "のどがかわきました",
+            "en": "(I'm) thirsty"
+        },
+        {
+            "kanji": null,
+            "kana": "そうですね",
+            "en": "I agree with you"
+        },
+        {
+            "kanji": null,
+            "kana": "そうましょう",
+            "en": "Let's do that"
+        },
+        {
+            "kanji": "ご注文は？",
+            "kana": "ごちゅうもんは？",
+            "en": "May I take your order?"
+        },
+        {
+            "kanji": "定食",
+            "kana": "ていしょく",
+            "en": "set meal"
+        },
+        {
+            "kanji": null,
+            "kana": "ぎゅうどん",
+            "en": "bowl of rice topped with beef"
+        },
+        {
+            "kanji": "［少々］お待ちください",
+            "kana": "［しょうしょう］おまちください",
+            "en": "Please wait [a moment]"
+        },
+        {
+            "kanji": "別々に",
+            "kana": "べつべつに",
+            "en": "separately"
+        }
+    ]
+}
